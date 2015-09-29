@@ -1,0 +1,21 @@
+{
+    "space": "Maakplek",
+    "url": "http://maakplek.nl",
+    "location": {
+        "address": "Van Hulley, Achterweg 1, 9725 BM Groningen, Nederland",
+        "lon": 6.567037,
+        "lat": 53.209718
+    },
+    "spacefed": {
+        "spacenet": false,
+        "spacesaml": false,
+        "spacephone": false
+    },
+    "contact": {
+        "twitter": "@maakplek",
+        "email": "welkom@maakplek.nl"
+    },
+    "state": {
+        "open": null
+    }
+}
